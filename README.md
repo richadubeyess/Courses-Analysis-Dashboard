@@ -1,3 +1,6 @@
+
+[Click here to view the live dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZDRmNjg0NDItYWNhYS00ZDU1LWJmYmYtMWQ2YTE3MzFhMzlmIiwidCI6ImQ0MmU5ZWE3LTVkODMtNDRjYS1hY2M0LTRkYzJkYmU4ZDkzNCJ9)  
+
 # Courses-Analysis-Dashboard
 
 1.  Project Overview-
