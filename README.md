@@ -4,7 +4,7 @@
    
 This project is a comprehensive data analytics dashboard built for an EdTech startup to help them make informed strategic decisions about their recorded course offerings. It analyzes trends, viewer preferences, skills in demand, and instructor performance across major platforms like Coursera, Udacity, Simplilearn, and FutureLearn.
 
-3.  Purpose-
+2.  Purpose-
    
 The primary objective is to analyze 10,000+ online courses and provide deep insights into:
 1.Popular course types and categories
@@ -14,12 +14,12 @@ The primary objective is to analyze 10,000+ online courses and provide deep insi
 5.Instructor and subtitle impact on engagement
 6.Strategic content recommendations for business growth
 
-4.  Tech Stack-
+3.  Tech Stack-
    
 Power BI – Data Visualization and Dashboard Creation.
 DAX – For calculated fields in Power BI.
 
-5.  Data Source
+4.  Data Source
 Title: Online Courses Dataset
 
 Link: https://www.kaggle.com/datasets/khaledatef1/online-courses
