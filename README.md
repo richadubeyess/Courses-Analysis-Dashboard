@@ -1,9 +1,11 @@
 # Courses-Analysis-Dashboard
 
-1.  Project Overview
+1.  Project Overview-
+   
 This project is a comprehensive data analytics dashboard built for an EdTech startup to help them make informed strategic decisions about their recorded course offerings. It analyzes trends, viewer preferences, skills in demand, and instructor performance across major platforms like Coursera, Udacity, Simplilearn, and FutureLearn.
 
-2.  Purpose
+3.  Purpose-
+   
 The primary objective is to analyze 10,000+ online courses and provide deep insights into:
 1.Popular course types and categories
 2.Viewer engagement patterns
@@ -12,11 +14,12 @@ The primary objective is to analyze 10,000+ online courses and provide deep insi
 5.Instructor and subtitle impact on engagement
 6.Strategic content recommendations for business growth
 
-3.  Tech Stack
-Power BI – Data Visualization and Dashboard Creation
-DAX – For calculated fields in Power BI
+4.  Tech Stack-
+   
+Power BI – Data Visualization and Dashboard Creation.
+DAX – For calculated fields in Power BI.
 
-4.  Data Source
+5.  Data Source
 Title: Online Courses Dataset
 
 Link: https://www.kaggle.com/datasets/khaledatef1/online-courses
@@ -31,7 +34,7 @@ Description: The dataset contains information on around 10,000 online courses fr
 4.Dynamic insights into instructor performance, subtitle usage, and course duration impact.
 5.Answers 9 business-critical questions (as per client problem statement).
 
-6.  Business Problem & Goals
+6.  Business Problem & Goals-
 Client Objective:
 To analyze their collected EdTech data to:
 
@@ -84,16 +87,11 @@ Table with averages: Balanced skill offering = more engagement.
 5.Provided a clear data-driven path to increase viewer retention and revenue.
 
 10.  How to Use-
+    
 1.Open the .pbit Power BI template file (COURSES.pbit).
 2.Refresh data (if required) using the provided CSV dataset.
 3.Explore the insights using slicers and visuals for deep analysis.
 
-11.Screenshot-
+11.Dashboard Preview-
 
-
-
-
-
-
-
-
+![Dashboard](https://github.com/richadubeyess/Courses-Analysis-Dashboard/blob/main/Snapshot%20of%20dashboard.png?raw=true)
